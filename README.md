@@ -4,6 +4,8 @@
 
 A CLI Program to Say Eid Mubarak thats build using TypeScript and published to NPM
 
+![Preview](./preview.jpeg)
+
 Run this command in Terminal
 
 ```
