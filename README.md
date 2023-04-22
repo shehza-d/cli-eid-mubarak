@@ -10,4 +10,6 @@ Run this command in Terminal
 npx shehzad-eid
 ```
 
-NodeJS must be installed
+and enter your name
+
+(NodeJS must be installed)
