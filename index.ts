@@ -25,7 +25,7 @@ figlet(
   }
 );
 
-// const rainbow2 = chalkAnimation.rainbow("May GOD Your Good Name...😁");
+// const rainbow2 = chalkAnimation.rainbow("Happy...😁");
 // setTimeout(() => {
 //   rainbow2.stop();
 // }, 3000);
