@@ -1,0 +1,37 @@
+{
+  "name": "shehzad-eid",
+  "version": "1.0.0",
+  "description": "A CLI Program to Say Eid Mubarak thats build using TypeScript and published to NPM",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shehza-d/cli-eid-mubarak.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "shehzad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shehza-d/cli-eid-mubarak/issues"
+  },
+  "homepage": "https://github.com/shehza-d/cli-eid-mubarak#readme",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.5.2",
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.1",
+    "@types/figlet": "^1.5.5",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.10"
+  }
+}
